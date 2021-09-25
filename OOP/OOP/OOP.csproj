@@ -51,12 +51,15 @@
     <Compile Include="FunctionOverriding.cs" />
     <Compile Include="FunctionShadowing.cs" />
     <Compile Include="HybridInheritance.cs" />
+    <Compile Include="InterfaceDemo.cs" />
+    <Compile Include="Iwifi.cs" />
     <Compile Include="MobilePhone.cs" />
     <Compile Include="MultiLevelInheritance.cs" />
     <Compile Include="MyMath.cs" />
     <Compile Include="NOKIA1100.cs" />
     <Compile Include="NOKIA1400.cs" />
     <Compile Include="NOKIA2700.cs" />
+    <Compile Include="NokiaLumia.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
