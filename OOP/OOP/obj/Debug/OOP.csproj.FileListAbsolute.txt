@@ -1,0 +1,7 @@
+C:\Users\giliy\Desktop\Codes\Git and GitHub\OOPDemo\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\giliy\Desktop\Codes\Git and GitHub\OOPDemo\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\OOPDemo\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\giliy\Desktop\Codes\Git and GitHub\OOPDemo\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\OOPDemo\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\giliy\Desktop\Codes\Git and GitHub\OOPDemo\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\giliy\Desktop\Codes\Git and GitHub\OOPDemo\OOP\OOP\obj\Debug\OOP.pdb
